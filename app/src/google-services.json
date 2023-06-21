@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "207324710634",
+    "project_id": "skyway-vpn",
+    "storage_bucket": "skyway-vpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207324710634:android:bf905eea5c26c6f7aab993",
+        "android_client_info": {
+          "package_name": "com.manish.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207324710634-vnaiqlckg9saugm7jjlsa355sulm03mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvDHkZn67tcPdRU9UlkZxka1Kzajq1Ej0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207324710634-vnaiqlckg9saugm7jjlsa355sulm03mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207324710634:android:1cda8a018512d529aab993",
+        "android_client_info": {
+          "package_name": "com.mircurine.apps.studio.skywayvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207324710634-vnaiqlckg9saugm7jjlsa355sulm03mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvDHkZn67tcPdRU9UlkZxka1Kzajq1Ej0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207324710634-vnaiqlckg9saugm7jjlsa355sulm03mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
